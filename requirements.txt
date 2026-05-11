@@ -1,7 +1,7 @@
-PyYAML==5.1.2
-certifi==2018.10.15
+PyYAML==5.4
+certifi==2024.7.4
 chardet==3.0.4
-idna==2.8
-requests==2.22.0
-urllib3==1.24.1
+idna==3.7
+requests==2.33.0
+urllib3==2.7.0
 wsgiref==0.1.2
